@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+```javascript
+const aboutMe = {
+    pronouns: "he" || "him",
+    code: [Javascript, HTML, CSS],
+    technologies: {
+        frontEnd: {
+            js:[React, "jQuery"],
+            css: ["Bootstrap", "Material UI"],
+            templates: ["Handlebars"]
+        },
+        backEnd: {
+            js: ["Node", "Express"]
+            misc:[GraphQL]
+        },
+    },
+
+    databases: ["MongoDB", "mySQL"],
+
+    currentOccupation: "Teacher's Assistant, Denver University Full Stack Web Development Bootcamp",
+    currentChallenges: ["Docker", "jest testing"]
+};
+```
+
+![Code Wars](https://www.codewars.com/users/Ccatalyst/badges/large)
+
 <!--
 **Ccatalyst/ccatalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
