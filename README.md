@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```javascript
 const aboutMe = {
     pronouns: "he" || "him",
