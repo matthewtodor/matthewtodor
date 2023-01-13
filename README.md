@@ -9,14 +9,14 @@ const aboutMe = {
             templates: ["Handlebars"]
         },
         backEnd: {
-            js: ["Node", "Express"]
+            js: ["Node", "Express"],
             misc:["GraphQL", "mongoose", "mySQL"]
         },
          databases: ["MongoDB", "SQL"],
     },
 
     currentOccupation: "Teacher's Assistant, Denver University Full Stack Web Development Bootcamp",
-    currentChallenges: ["Docker", "jest testing"]
+    currentChallenges: ["C#", "Typescript"]
 };
 ```
 
