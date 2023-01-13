@@ -10,7 +10,7 @@ const aboutMe = {
         },
         backEnd: {
             js: ["Node", "Express"]
-            misc:["GraphQL", mongoose, mySQL]
+            misc:["GraphQL", "mongoose", "mySQL"]
         },
          databases: ["MongoDB", "SQL"],
     },
