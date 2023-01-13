@@ -4,17 +4,16 @@ const aboutMe = {
     code: [Javascript, HTML, CSS],
     technologies: {
         frontEnd: {
-            js:[React, "jQuery"],
+            js:["React", "jQuery"],
             css: ["Bootstrap", "Material UI"],
             templates: ["Handlebars"]
         },
         backEnd: {
             js: ["Node", "Express"]
-            misc:[GraphQL]
+            misc:["GraphQL", mongoose, mySQL]
         },
+         databases: ["MongoDB", "SQL"],
     },
-
-    databases: ["MongoDB", "mySQL"],
 
     currentOccupation: "Teacher's Assistant, Denver University Full Stack Web Development Bootcamp",
     currentChallenges: ["Docker", "jest testing"]
