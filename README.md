@@ -1,11 +1,11 @@
 ```javascript
 const aboutMe = {
     pronouns: "he" || "him",
-    code: [Javascript, HTML, CSS],
+    code: [Javascript, Typescript, HTML, CSS],
     technologies: {
         frontEnd: {
-            js:["React", "jQuery"],
-            css: ["Bootstrap", "Material UI"],
+            js:["React", "React Native", "jQuery"],
+            css: ["Material UI", "Bootstrap"],
             templates: ["Handlebars"]
         },
         backEnd: {
@@ -16,7 +16,7 @@ const aboutMe = {
     },
 
     currentOccupation: "Teacher's Assistant, Denver University Full Stack Web Development Bootcamp",
-    currentChallenges: ["C#", "Typescript"]
+    currentChallenges: ["Typescript", "Vue" ]
 };
 ```
 
