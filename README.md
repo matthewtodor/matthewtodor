@@ -4,19 +4,19 @@ const aboutMe = {
     code: [Javascript, Typescript, HTML, CSS],
     technologies: {
         frontEnd: {
-            js:["React", "React Native", "jQuery"],
-            css: ["Material UI", "Bootstrap"],
-            templates: ["Handlebars"]
+            js:[React, React Native, jQuery],
+            css: [MaterialUI, Bootstrap],
+            templates: [Handlebars]
         },
         backEnd: {
-            js: ["Node", "Express"],
-            misc:["GraphQL", "mongoose", "mySQL"]
+            js: [Node, Express],
+            misc:[GraphQL, mongoose, mySQL]
         },
-         databases: ["MongoDB", "SQL"],
+         databases: [MongoDB, SQL],
     },
 
     currentOccupation: "Teacher's Assistant, Denver University Full Stack Web Development Bootcamp",
-    currentChallenges: ["Typescript", "Vue" ]
+    currentChallenges: [Typescript, Vue]
 };
 ```
 
