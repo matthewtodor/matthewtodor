@@ -16,11 +16,11 @@ const aboutMe = {
     },
 
     currentOccupation: "Teacher's Assistant, Denver University Full Stack Web Development Bootcamp",
-    currentChallenges: [Typescript, Vue]
+    currentChallenges: [Typescript, Vue, PHP, WordPress]
 };
 ```
-![Ccatalyst's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccatalyst&count_private=true&theme=gotham&show_icons=true&border_color=2aa889#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccatalyst&layout=compact&theme=gotham&border_color=2aa889)](https://github.com/ccatalyst/github-readme-stats#gh-dark-mode-only)
+![Ccatalyst's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccatalyst&count_private=true&theme=gotham&show_icons=true&border_color=2aa889)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccatalyst&layout=compact&theme=gotham&border_color=2aa889)](https://github.com/ccatalyst/github-readme-stats)
 
 
 
