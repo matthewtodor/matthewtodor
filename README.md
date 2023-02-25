@@ -20,7 +20,7 @@ const aboutMe = {
 };
 ```
 ![Ccatalyst's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccatalyst&count_private=true&theme=gotham&show_icons=true&border_color=2aa889)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccatalyst&layout=compact&theme=gotham&border_color=2aa889)](https://github.com/ccatalyst/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccatalyst&layout=compact&theme=gotham&border_color=2aa889&langs_count=6)](https://github.com/ccatalyst/github-readme-stats)
 
 
 
