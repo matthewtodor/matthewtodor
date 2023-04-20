@@ -16,7 +16,7 @@ const aboutMe = {
     },
 
     currentOccupation: "Teacher's Assistant, Denver University Full Stack Web Development Bootcamp",
-    currentChallenges: [Typescript, Vue, PHP, WordPress]
+    currentChallenges: [Typescript, Python]
 };
 ```
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewtodor&count_private=true&theme=gotham&show_icons=true&border_color=2aa889)
