@@ -15,7 +15,7 @@ const aboutMe = {
          databases: [MongoDB, SQL],
     },
 
-    currentOccupation: "Teacher's Assistant, Denver University Full Stack Web Development Bootcamp",
+    currentOccupation: "Teacher's Assistant, edX Full Stack Web Development Bootcamp",
     currentChallenges: [Typescript, Python]
 };
 ```
