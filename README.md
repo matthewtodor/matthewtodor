@@ -12,11 +12,11 @@ const aboutMe = {
             js: [Node, Express],
             misc:[GraphQL, mongoose, mySQL]
         },
-         databases: [MongoDB, SQL],
+         databases: [MongoDB, SQL]
     },
 
-    currentOccupation: "Teacher's Assistant, edX Full Stack Web Development Bootcamp",
-    currentChallenges: [Typescript, Python]
+    currentOccupation: "Application Developer, Davita Inc.",
+    currentChallenges: [Typescript, Angular]
 };
 ```
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewtodor&count_private=true&theme=gotham&show_icons=true&border_color=2aa889)
